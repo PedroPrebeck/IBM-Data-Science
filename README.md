@@ -10,21 +10,21 @@ The IBM Data Science course is a comprehensive program offered by IBM on Courser
 ## 🏆 Progress
 Here's my progress on the course so far:
 
-🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛
+🟩🟩🟨⬛⬛⬛⬛⬛⬛⬛
 
 ## 📖 Course List
 The IBM Data Science Professional Certificate includes the following courses:
 
-1. 🟩What is Data Science?
-2. 🟩Tools for Data Science
-3. ⬛Data Science Methodology
-4. ⬛Python for Data Science, AI & Development
-5. ⬛Python Project for Data Science
-6. ⬛Databases and SQL for Data Science with Python
-7. ⬛Data Analysis with Python
-8. ⬛Data Visualization with Python
-9. ⬛Machine Learning with Python
-10. ⬛Applied Data Science Capstone
+1. 🟩 What is Data Science?
+2. 🟩 Tools for Data Science
+3. 🟨 Data Science Methodology
+4. ⬛ Python for Data Science, AI & Development
+5. ⬛ Python Project for Data Science
+6. ⬛ Databases and SQL for Data Science with Python
+7. ⬛ Data Analysis with Python
+8. ⬛ Data Visualization with Python
+9. ⬛ Machine Learning with Python
+10. ⬛ Applied Data Science Capstone
 
 I have completed Course 1 and 2 am currently in Week 1 of Course 3.
 
