@@ -48,8 +48,10 @@ Here are some of the skills and tools that I will be using throughout the course
 
 Here are my completed certifications from the IBM Data Science Professional Certificate:
 
-- 🏆 [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/E6X9EL5DCT6U) - Coursera
-- 🏆 [Data Science Orientation](https://www.credly.com/badges/f8716612-94e8-4315-85f3-ce74933830d6/) - Coursera Authorized by IBM
+- 🏆 [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/E6X9EL5DCT6U) - Issued by Coursera
+- 🏆 [Data Science Orientation](https://www.credly.com/badges/f8716612-94e8-4315-85f3-ce74933830d6/) - Issued by Coursera - Authorized by IBM
+- 🏆 [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/XVPBHG9WL8XP) - Issued by Coursera
+- 🏆 [Tools for Data Science V2](https://www.credly.com/badges/07057767-556c-4e06-a977-f7660418d24e/) - Issued by Coursera - Authorized by IBM
 
 ## 📫 Get in Touch
 If you're interested in connecting or learning more about my work, feel free to connect with me on <a href="https://www.linkedin.com/in/pedro-hs-azevedo/?locale=en_US">LinkedIn</a> or send me an email at <a href="mailto:pedroazevedo252@gmail.com">pedroazevedo252@gmail.com</a>.
