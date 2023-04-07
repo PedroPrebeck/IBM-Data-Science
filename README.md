@@ -10,15 +10,15 @@ The IBM Data Science course is a comprehensive program offered by IBM on Courser
 ## 🏆 Progress
 Here's my progress on the course so far:
 
-🟩🟩🟨⬛⬛⬛⬛⬛⬛⬛
+🟩🟩🟩🟨⬛⬛⬛⬛⬛⬛
 
 ## 📖 Course List
 The IBM Data Science Professional Certificate includes the following courses:
 
 1. 🟩 What is Data Science?
 2. 🟩 Tools for Data Science
-3. 🟨 Data Science Methodology
-4. ⬛ Python for Data Science, AI & Development
+3. 🟩 Data Science Methodology
+4. 🟨 Python for Data Science, AI & Development
 5. ⬛ Python Project for Data Science
 6. ⬛ Databases and SQL for Data Science with Python
 7. ⬛ Data Analysis with Python
@@ -52,6 +52,8 @@ Here are my completed certifications from the IBM Data Science Professional Cert
 - 🏆 [Data Science Orientation](https://www.credly.com/badges/f8716612-94e8-4315-85f3-ce74933830d6/) - Issued by Coursera - Authorized by IBM
 - 🏆 [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/XVPBHG9WL8XP) - Issued by Coursera
 - 🏆 [Tools for Data Science V2](https://www.credly.com/badges/07057767-556c-4e06-a977-f7660418d24e/) - Issued by Coursera - Authorized by IBM
+- 🏆 [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/K32ZM79WJD5E) - Issued by Coursera
+- 🏆 [Data Science Methodology](https://www.credly.com/badges/286eaa14-ba91-4ee2-911c-e321e50ea9f6) - Issued by Coursera - Authorized by IBM
 
 ## 📫 Get in Touch
 If you're interested in connecting or learning more about my work, feel free to connect with me on <a href="https://www.linkedin.com/in/pedro-hs-azevedo/?locale=en_US">LinkedIn</a> or send me an email at <a href="mailto:pedroazevedo252@gmail.com">pedroazevedo252@gmail.com</a>.
