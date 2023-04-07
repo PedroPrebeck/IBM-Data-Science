@@ -26,7 +26,7 @@ The IBM Data Science Professional Certificate includes the following courses:
 9. ⬛ Machine Learning with Python
 10. ⬛ Applied Data Science Capstone
 
-I have completed Course 1 and 2 am currently in Week 1 of Course 3.
+I have completed Course 1, 2 and 3 am currently in Week 4 of Course 4.
 
 ## 📁 Repository Contents
 This repository contains my code and notes from the IBM Data Science course. Here's what you'll find inside:
