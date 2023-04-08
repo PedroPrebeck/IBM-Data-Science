@@ -54,7 +54,7 @@ Here are my completed certifications from the IBM Data Science Professional Cert
 - 🏆 [Tools for Data Science V2](https://www.credly.com/badges/07057767-556c-4e06-a977-f7660418d24e/) - Issued by Coursera - Authorized by IBM
 - 🏆 [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/K32ZM79WJD5E) - Issued by Coursera
 - 🏆 [Data Science Methodology](https://www.credly.com/badges/286eaa14-ba91-4ee2-911c-e321e50ea9f6) - Issued by Coursera - Authorized by IBM
-- 🏆 [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/TMRBHFR6RWA6) - Issued by Coursera
+- 🏆 [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/TMRBHFR6RWA6) - Issued by Coursera
 - 🏆 [Python for Data Science and AI](https://www.credly.com/badges/d9d6aed9-6e17-4f75-bf24-3401a7edfd12/) - Issued by Coursera - Authorized by IBM
 
 ## 📫 Get in Touch
