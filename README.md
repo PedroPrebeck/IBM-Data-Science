@@ -10,7 +10,7 @@ The IBM Data Science course is a comprehensive program offered by IBM on Courser
 ## 🏆 Progress
 Here's my progress on the course so far:
 
-🟩🟩🟩🟩🟨⬛⬛⬛⬛⬛
+🟩🟩🟩🟩🟩🟨⬛⬛⬛⬛
 
 ## 📖 Course List
 The IBM Data Science Professional Certificate includes the following courses:
@@ -19,14 +19,14 @@ The IBM Data Science Professional Certificate includes the following courses:
 2. 🟩 Tools for Data Science
 3. 🟩 Data Science Methodology
 4. 🟩 Python for Data Science, AI & Development
-5. 🟨 Python Project for Data Science
-6. ⬛ Databases and SQL for Data Science with Python
+5. 🟩 Python Project for Data Science
+6. 🟨 Databases and SQL for Data Science with Python
 7. ⬛ Data Analysis with Python
 8. ⬛ Data Visualization with Python
 9. ⬛ Machine Learning with Python
 10. ⬛ Applied Data Science Capstone
 
-I have completed Course 1 through 4 am currently working on my project for Course 5.
+I have completed Course 1 through 5 am currently studying Databases and SQL for Data Science with Python.
 
 ## 📁 Repository Contents
 This repository contains my code and notes from the IBM Data Science course. Here's what you'll find inside:
@@ -56,6 +56,8 @@ Here are my completed certifications from the IBM Data Science Professional Cert
 - 🏆 [Data Science Methodology](https://www.credly.com/badges/286eaa14-ba91-4ee2-911c-e321e50ea9f6) - Issued by Coursera - Authorized by IBM
 - 🏆 [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/TMRBHFR6RWA6) - Issued by Coursera
 - 🏆 [Python for Data Science and AI](https://www.credly.com/badges/d9d6aed9-6e17-4f75-bf24-3401a7edfd12/) - Issued by Coursera - Authorized by IBM
+- 🏆 [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/DTE6J98B2UZR) - Issued by Coursera
+- 🏆 [Python Project for Data Science](https://www.credly.com/badges/c6339658-e606-406a-b358-d7c3298ec249/) - Issued by Coursera - Authorized by IBM
 
 ## 📫 Get in Touch
 If you're interested in connecting or learning more about my work, feel free to connect with me on <a href="https://www.linkedin.com/in/pedro-hs-azevedo/?locale=en_US">LinkedIn</a> or send me an email at <a href="mailto:pedroazevedo252@gmail.com">pedroazevedo252@gmail.com</a>.
