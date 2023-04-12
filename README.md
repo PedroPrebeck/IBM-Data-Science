@@ -10,7 +10,7 @@ The IBM Data Science course is a comprehensive program offered by IBM on Courser
 ## 🏆 Progress
 Here's my progress on the course so far:
 
-🟩🟩🟩🟩🟩🟩🟩🟨⬛⬛
+🟩🟩🟩🟩🟩🟩🟩🟩🟨⬛
 
 ## 📖 Course List
 The IBM Data Science Professional Certificate includes the following courses:
@@ -22,11 +22,11 @@ The IBM Data Science Professional Certificate includes the following courses:
 5. 🟩 Python Project for Data Science
 6. 🟩 Databases and SQL for Data Science with Python
 7. 🟩 Data Analysis with Python
-8. 🟨 Data Visualization with Python
-9. ⬛ Machine Learning with Python
+8. 🟩 Data Visualization with Python
+9. 🟨 Machine Learning with Python
 10. ⬛ Applied Data Science Capstone
 
-I have completed Course 1 through 7 am currently studying Data Visualization with Python.
+I have completed Course 1 through 8 am currently studying Machine Learning with Python.
 
 ## 📁 Repository Contents
 This repository contains my code and notes from the IBM Data Science course. Here's what you'll find inside:
@@ -62,6 +62,8 @@ Here are my completed certifications from the IBM Data Science Professional Cert
 - 🏆 [Databases and SQL for Data Science Badge](https://www.credly.com/badges/b9fb78b7-d4ac-4d26-a95e-895e8d8759cb/) - Issued by Coursera - Authorized by IBM
 - 🏆 [Data Analysis with Python](https://www.coursera.org/account/accomplishments/certificate/J2VBZL96B9L7) - Issued by Coursera
 - 🏆 [Data Analysis with Python Badge](https://www.credly.com/badges/c2589fbf-a26c-4992-97f4-533fe2e25118/) - Issued by Coursera - Authorized by IBM
-
+- 🏆 [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/5JL28MF2BYUD) - Issued by Coursera
+- 🏆 [Data Visualization with Python Badge](https://www.credly.com/badges/ba707339-5169-4257-8f13-32b377dff83e/) - Issued by Coursera - Authorized by IBM
+  
 ## 📫 Get in Touch
 If you're interested in connecting or learning more about my work, feel free to connect with me on <a href="https://www.linkedin.com/in/pedro-hs-azevedo/?locale=en_US">LinkedIn</a> or send me an email at <a href="mailto:pedroazevedo252@gmail.com">pedroazevedo252@gmail.com</a>.
